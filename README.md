@@ -8,7 +8,7 @@
 - 🎓 Currently pursuing **Computer Science & Engineering**  
 - 💻 Interested in **Software Development, Web Development, and Machine Learning**  
 - 🚀 Always eager to learn new technologies and build impactful projects  
-- 📫 Reach me at **[zainubfareed18@example.com]**
+- 📫 Reach me at **[zainubfareed18@gmail.com]**
 
 ---
 
