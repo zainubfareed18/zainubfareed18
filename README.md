@@ -37,11 +37,9 @@
 ---
 
 ### 📂 Featured Projects  
-- 🔹 [**Project 1**](https://github.com/yourusername/project1) – Short description of what it does.  
-- 🔹 [**Project 2**](https://github.com/yourusername/project2) – Something unique or impressive.  
-- 🔹 [**Portfolio Website**](https://yourportfolio.com) – Your personal showcase website.  
-
----
+- 🔹 [**Project 1 Scam Detector-The project’s mission is to protect users from fraud by providing an easy way to verify the legitimacy of messages before taking action.**](https://github.com/yourusername/) – Short description of what it does.  
+- 🔹 [**Project 2 Mental Health Companion-The app combines self-reflection and mood awareness in a calming, easy-to-use space. It’s built for people who want to track their mental health without sacrificing privacy or anonymity.(still working on it*)*](https://github.com/yourusername/project2) – Something unique or impressive.  
+  ---
 
 ### 📊 GitHub Stats  
 
