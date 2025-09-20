@@ -38,9 +38,9 @@
 
 ### 📂 Featured Projects
 
-- ◆ **Project 1 Scam Detector** – An AI-powered tool that protects users from fraud by analyzing messages and detecting suspicious patterns before taking action.  
+- ◆ **Project 1 Scam Detector** – A tool that protects users from fraud by analyzing messages and detecting suspicious patterns before taking action.  
 
-- ◆ **Project 2 Mental Health Companion** – The app combines self-reflection and mood awareness in a calming, easy-to-use space. It’s built for people who want to track their mental health without sacrificing privacy or anonymity. (Still a work in progress 🚧)  
+- ◆ **Project 2 Mental Health Companion** – The app combines self-reflection and mood awareness in a calming, easy-to-use space. It’s built for people who want to track their mental health without sacrificing privacy or anonymity. (Still work in progress 🚧)  
 
 
 ### 📊 GitHub Stats  
